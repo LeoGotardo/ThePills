@@ -1,4 +1,4 @@
-# Patient Medication Recommendation System - Documentation
+# ✓  Patient Medication Recommendation System - Documentation
 
 ## Introduction
 This program is designed to collect certain information about a patient and determine whether the patient should take medication or not. Additionally, it calculates the recommended number of drops of the medication based on the patient's data.
